@@ -14,11 +14,15 @@ One of the most important goals of online stores is to promote products due to t
 
 -[Installation](#Installation)
 
--[Questions](#Questions) 
+-[Questions](#Questions)
+
+-[MVP Goal](#MVP)
 
 -[Dataset Resource](#Dataset_Resource)
 
 -[Author](#Author)
+
+
 
 
 ![Logo](https://arabhardware.net/wp-content/uploads/2020/02/new-google-play-store-mobile-1280x720.jpg)
@@ -69,6 +73,9 @@ Run pip install command to install related packages.
 3. Is there a relationship between the category and the number of downloads?
 
 4. Does the price affect the number of downloads and evaluations?
+## MVP
+
+To find at least four factors that increase the probability of applications success 
 ## Dataset_Resource
 
 https://www.kaggle.com/madhav000/playstore-analysis/version/1
