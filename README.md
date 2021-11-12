@@ -1,6 +1,6 @@
 # Playstore Analysis
 
-One of the most important goals of online stores is to promote products due to the recommendation system. Therefore, the store aims to know the highest rated applications because this reflects the performance and quality of the application. By knowing the interests of customers in terms of evaluation or even interest in the application category, the store will be able to promote the applications that are most interested by customers.
+At the beginning of creating any application, companies need to know the influencing factors required for the success of their application. So this dataset will help us to know some of these factors.
 
 
 
