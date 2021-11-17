@@ -53,7 +53,7 @@ Jupyter Notebook
 
 Language: Python
 
-Libraries: numpy, pandas, seaborn
+Libraries: numpy, pandas, seaborn, plotly, matplotlib
 
 ## Installation
 
@@ -63,6 +63,8 @@ Run pip install command to install related packages.
 !pip install numpy
 !pip install pandas
 !pip install seaborn
+!pip install plotly
+!pip install matplotlib
 ```
     
 ## Questions
