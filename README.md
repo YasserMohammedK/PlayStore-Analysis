@@ -66,16 +66,20 @@ Run pip install command to install related packages.
 ```
     
 ## Questions
-1. Does rating have a role in increasing the number of downloads?
+1. Does Rating have a role in increasing the number of downloads?
 
-2. Does age classification have a role in increasing the number of downloads?
+2. Does Targets have a role in increasing the number of downloads?
 
-3. Is there a relationship between the category and the number of downloads?
+3. Is there a relationship between the Category and the number of downloads?
 
-4. Does the price affect the number of downloads and evaluations?
+4. Does the price affect the number of downloads and Rating?
+
+5. What is the category with the highest number of installs?
+
+6. Is the category with the highest number of installs also has the highest average in installs?  
 ## MVP
 
-To find at least four factors that increase the probability of applications success 
+To find some factors that increase the probability of applications success 
 ## Dataset_Resource
 
 https://www.kaggle.com/madhav000/playstore-analysis/version/1
