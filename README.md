@@ -68,17 +68,17 @@ Run pip install command to install related packages.
 ```
     
 ## Questions
-1. Does Rating have a role in increasing the number of downloads?
+1.Does category affect the number of installs?
 
-2. Does Targets have a role in increasing the number of downloads?
+2.What is the category with the highest number of installs?
 
-3. Is there a relationship between the Category and the number of downloads?
+3.Is the category with the highest number of installs also has the highest average in installs?
 
-4. Does the price affect the number of downloads and Rating?
+4.Does Rating have a role in increasing the number of downloads?
 
-5. What is the category with the highest number of installs?
+5.Does the price affect the number of downloads?
 
-6. Is the category with the highest number of installs also has the highest average in installs?  
+6.Does Targets have a role in increasing the number of downloads?
 ## MVP
 
 To find some factors that increase the probability of applications success 
